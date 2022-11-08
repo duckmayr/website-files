@@ -17,15 +17,14 @@ publication_short: ""
 publication_types:
 - "2"
 publishDate: "2021-08-30T00:00:00Z"
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
-  ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: 
 tags:
 - Judicial Politics
 - Agenda Setting
 title: Agenda Setting and Attention to Precedent in the US Federal Courts
 url_code: 
 url_dataset: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: 
 url_poster: ""
 url_project: ""
 url_slides: ""
@@ -35,13 +34,3 @@ publisher_link: "https://www.journals.uchicago.edu/doi/abs/10.1086/713404"
 replication: "https://doi.org/10.7910/DVN/O7KM7E"
 r_package: ""
 ---
-
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
