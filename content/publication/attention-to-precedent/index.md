@@ -33,6 +33,7 @@ url_source: ""
 url_video: ""
 publisher_link: "https://www.journals.uchicago.edu/doi/abs/10.1086/713404"
 replication: "https://doi.org/10.7910/DVN/O7KM7E"
+r_package: ""
 ---
 
 {{% callout note %}}
