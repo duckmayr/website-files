@@ -5,7 +5,7 @@ authors:
 - Thomas G. Hansford
 - James F. Spriggs, II
 date: "2021-08-30T00:00:00Z"
-doi: "10.1086/713404"
+doi: ""
 featured: false
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
@@ -23,7 +23,7 @@ tags:
 - Judicial Politics
 - Agenda Setting
 title: Agenda Setting and Attention to Precedent in the US Federal Courts
-url_code: https://github.com/wowchemy/wowchemy-hugo-themes
+url_code: 
 url_dataset: ""
 url_pdf: http://arxiv.org/pdf/1512.04133v1
 url_poster: ""
@@ -31,6 +31,8 @@ url_project: ""
 url_slides: ""
 url_source: ""
 url_video: ""
+publisher_link: "https://www.journals.uchicago.edu/doi/abs/10.1086/713404"
+replication: "https://doi.org/10.7910/DVN/O7KM7E"
 ---
 
 {{% callout note %}}
