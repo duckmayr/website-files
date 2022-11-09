@@ -1,5 +1,5 @@
 ---
-bio: My research interests centers on American political institutions, with a particular focus on judicial decision making and the role of law in judicial politics.
+bio: I research American political institutions, with a particular focus on judicial decision making and the role of law in judicial politics.
 education:
   courses:
   - course: PhD in Political Science
@@ -43,4 +43,4 @@ title: JBrandon Duck-Mayr
 
 I am an Assistant Professor in the Department of Government at the University of Texas at Austin. My research centers on American political institutions, with a particular focus on judicial decision making. I use both formal theoretic & empirical research approaches, and a passion for accurate statistical inference in my substantive work also leads to methodology-focused projects. My current projects focus on the extent to which the law constrains the decisions of US Supreme Court justices, measuring judicial ideology, and using and extending machine learning methods for the study of politics.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/duck-mayr-cv.pdf" "newtab" >}}CV{{< /staticref >}}.
