@@ -7,16 +7,16 @@ widget: collection
 headless: true
 
 # Order that this section appears on the page.
-weight: 30
+weight: 40
 
-title: Published Work
+title: Working Papers
 subtitle: ''
 
 content:
   # Filter on criteria
   filters:
     folders:
-      - publication
+      - working-papers
     tag: ''
     category: ''
     publication_type: ''
