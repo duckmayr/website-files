@@ -3,7 +3,7 @@ abstract: Standard methods for measuring latent traits from categorical data ass
 authors:
 - admin
 - Jacob Montgomery
-date: "2022-11-0T00:00:00Z"
+date: "2022-11-08T00:00:00Z"
 doi: ""
 featured: false
 image:
