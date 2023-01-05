@@ -6,8 +6,8 @@ authors:
 date: "2022-11-08T00:00:00Z"
 doi: ""
 featured: false
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+image: 
+  caption: 'Comparison between MC3-GGUM and DW-NOMINATE ideal points'
   focal_point: ""
   preview_only: false
 projects: []
@@ -33,3 +33,5 @@ publisher_link:
 replication: https://doi.org/10.7910/DVN/HXORK9
 r_package: https://github.com/duckmayr/bggum
 ---
+
+You can find MC3-GGUM estimates of Congressional ideology on the dataset page [here]({{< relref "/data-software/ggum-estimates" >}})

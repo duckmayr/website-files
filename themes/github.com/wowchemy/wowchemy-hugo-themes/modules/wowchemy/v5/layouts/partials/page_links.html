@@ -69,6 +69,21 @@
 </a>
 {{ end }}
 
+{{ $codebook := "" }}
+{{ $resource := $page.Resources.GetMatch (printf "%s-codebook.pdf" $page.File.ContentBaseName) }}
+{{ with $resource }}
+  {{ $codebook = .RelPermalink }}
+{{ else }}
+  {{ if $page.Params.url_codebook }}
+    {{ $codebook = $page.Params.url_codebook | relURL }}
+  {{ end }}
+{{ end }}
+{{ with $codebook }}
+<a class="btn btn-outline-primary btn-page-header{{ if $is_list }} btn-sm{{end}}" href="{{ . }}" target="_blank" rel="noopener">
+  Codebook
+</a>
+{{ end }}
+
 
 {{ $resource := $page.Resources.GetMatch "cite.bib" }}
 {{ with $resource }}
