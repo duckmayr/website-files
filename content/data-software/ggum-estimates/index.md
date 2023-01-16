@@ -38,7 +38,7 @@ For details of the GGUM model and the MC3 estimation algorithm, please see [the 
 When using this dataset, please cite both the dataset and the related publication as follows (the "Cite" button above will generate BibTeX entries for you):
 
 - Duck-Mayr, JBrandon and Jacob Montgomery. 2022. *MC3-GGUM Estimates of Congressional Ideology*. <http://jbduckmayr.com/data-software/ggum-estimates/>
-- Duck-Mayr, JBrandon and Jacob Montgomery. 2022. "Ends Against the Middle: Measuring Latent Traits When Opposites Respond the Same Way for Antithetical Reasons”. *Political Analysis* Forthcoming.
+- Duck-Mayr, JBrandon and Jacob Montgomery. 2023. "Ends Against the Middle: Measuring Latent Traits When Opposites Respond the Same Way for Antithetical Reasons”. *Political Analysis* FirstView, 1--20. <https://doi.org/10.1017/pan.2022.33>.
 
 You can download the dataset and its codebook here:
 
