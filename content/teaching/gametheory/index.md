@@ -36,4 +36,12 @@ This course provides an introduction to game theory and its application to polit
 It presupposes no technical background.
 We will cover basic game theory models and solution concepts, as well as how these methods are used specifically in political science, looking at applications to electoral competition, legislative bargaining, delegation to bureaucracy, and more.
 
-Taught at the University of Texas at Austin in Spring 2023. You can find the syllabus <a href="gametheory-syllabus.pdf" target="_blank">here</a>.
+Taught at the University of Texas at Austin in Spring 2023.
+
+Course materials:
+
+- <a href="gametheory-syllabus.pdf" target="_blank">Syllabus</a>
+- Slides:
+  + <a href="intro-slides.pdf" target="_blank">Introduction slides</a>
+  + <a href="strategic-games-pure-strategies-slides.pdf" target="_blank">Slides on strategic (normal form) games and pure strategy Nash equilibrium</a> (this is two weeks worth of material)
+  + <a href="strategic-games-mixed-strategies-slides.pdf" target="_blank">Slides on mixed strategy Nash equilibrium in strategic games</a>
